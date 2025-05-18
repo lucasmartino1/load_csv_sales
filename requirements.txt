@@ -1,0 +1,1 @@
+apache-airflow-providers-google==10.5.0
