@@ -6,6 +6,8 @@ Olá a todos 👋, este repositório contém um projeto de ingestão de um arqui
 
 ## *Arquitetura do Projeto*
 
+![lucasmartino1 Sales CSV](./datapipeline.gif)
+
 ---
 
 ### **Configuração do Ambiente**
